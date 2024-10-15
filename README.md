@@ -1,7 +1,7 @@
 To run this project just do following steps:
-1. Mske sure your docker is running
-2. run docker network remove rabbitmq-network
-3. run docker-compose up --build
+1. Make sure your docker is running
+2. run "docker network remove rabbitmq-network"
+3. run "docker-compose up --build"
 
 The link below is a google drive link to the video which shows the screen sharing of running the project locally.
 https://drive.google.com/file/d/17GDjaWxQxeOZAo9lJEGLnCJKjCmdW7wL/view?usp=drive_link
